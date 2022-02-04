@@ -2,4 +2,12 @@
 
 [Основная идеология занятия спортом по мнению автора](ideology.md)
 
-[Цели и задачи снижения веса](weight_loss.md)
+# Снижение веса 
+
+[Введение в снижение веса и его основное содержание](weight_loss_intro.md)
+
+[Диета](weight_loss_diet.md)
+
+[Силовые тренировки](weight_loss_power_training.md)
+
+[Кардио](weight_loss_cardio.md)
